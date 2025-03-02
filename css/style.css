@@ -1,11 +1,5 @@
-.body .header .nav-link {
-    color: #2E2F42;
-
-}
-.body .header .address {
+.body {
+    font-family: 'roboto', sans-serif;
     color: #434455;
-}
-
-ul {
-    list-style-type: none;
+    background-color: #ffffff;
 }
