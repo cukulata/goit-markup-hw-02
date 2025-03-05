@@ -4,8 +4,6 @@ body {
     background-color: #ffffff;
 }
 #header {
-    
-}
 .header-logo{
     font-family: raleway;
     font-weight: 700;
@@ -17,6 +15,7 @@ body {
 }
 .header_logo_second{
     color: #2e2f42;
+}
 }
 .menu {
     font-weight: 500;
