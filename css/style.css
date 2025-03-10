@@ -54,7 +54,7 @@ color: #434455;
     color: #ffffff;
 }
 .main-section .blue-button:hover,
-.main-section .blue-button:focus, {
+.main-section .blue-button:focus {
     background-color: #404bbf;
     cursor: pointer;
 }
