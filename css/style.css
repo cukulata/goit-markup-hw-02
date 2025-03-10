@@ -14,7 +14,7 @@
     color: #2e2f42;
 }
 .nav .header-nav:hover,
-.nav .header-nav.activ:focus {
+.nav .header-nav:focus{
     color: #404bbf;
 
 }
