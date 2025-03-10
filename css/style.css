@@ -31,3 +31,30 @@ color: #434455;
 .contact-address .contact:focus {
     color: #404bbf;
 }
+.section .features {
+    background-color: #2e2f42;
+}
+.main-section {
+    background-color: #2e2f42;
+}
+.main-section .h1-title {
+    font-size: 56px;
+    line-height: 1.17;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+.main-section .blue-button {
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+}
+.main-section .blue-button:hover,
+.main-section .blue-button:focus, {
+    background-color: #404bbf;
+    cursor: pointer;
+}
