@@ -58,7 +58,7 @@ color: #434455;
     background-color: #404bbf;
     cursor: pointer;
 }
-section .features {
+.features {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
